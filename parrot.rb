@@ -9,4 +9,5 @@ end
 
 def parrot
   puts "Squawk"
-  return
+  return "Pretty bird!"
+end
