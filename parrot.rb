@@ -9,5 +9,5 @@ def parrot
 end
 
 def parrot
-  puts "Squawk"
+  phrase
 end
